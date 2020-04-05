@@ -1,6 +1,6 @@
 # Welcome to the MEENet homepage!
 
-`MEENet` (Multi Entity Embedding Network) is a goto toolkit for visualization and analysis of single cell RNA seq data. It also achives the clustering of cells and genes together using the concept of k-nearest neighbor 
+`MEENet` (Multi Entity Embedding Network) is a goto toolkit for visualization and analysis of single cell RNA seq data. It also achieves de-novo clustering of cells and genes together using the concept of k-nearest neighbor thus forming the multi entity graph network. 
 
 ## Implementations
 
