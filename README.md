@@ -10,7 +10,7 @@
 
 The Python implementation includes [command line tool] for building the multi entity graph network  and visualizationa and analysis pipeline for the same and an [analysis pipeline].
 
-See [the detailed documentation](http://velocyto.org/velocyto.py/) for [installation instructions](http://velocyto.org/velocyto.py/install/index.html), [tutorials](http://velocyto.org/velocyto.py/tutorial/index.html) and an overview of [the full API](http://velocyto.org/velocyto.py/fullapi/index.html).
+See [the detailed documentation](https://swagatam123.github.io/MEENet-python/) for [installation instructions](http://velocyto.org/velocyto.py/install/index.html), [tutorials](http://velocyto.org/velocyto.py/tutorial/index.html) and an overview of [the full API](http://velocyto.org/velocyto.py/fullapi/index.html).
 
 
 
