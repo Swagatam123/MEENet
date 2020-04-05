@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to the MEENet homepage!
 
-You can use the [editor on GitHub](https://github.com/Swagatam123/MEENet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+`MEENet` (Multi Entity Embedding Network) is a goto toolkit for visualization and analysis of single cell RNA seq data. It also achives the clustering of cells and genes together using the concept of k-nearest neighbor 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Implementations
 
-### Markdown
+`MEENEet` has two different implementations:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Python package
 
-```markdown
-Syntax highlighted code block
+The Python implementation includes [command line tool] for building the multi entity graph network  and visualizationa and analysis pipeline for the same and an [analysis pipeline].
 
-# Header 1
-## Header 2
-### Header 3
+See [the detailed documentation](http://velocyto.org/velocyto.py/) for [installation instructions](http://velocyto.org/velocyto.py/install/index.html), [tutorials](http://velocyto.org/velocyto.py/tutorial/index.html) and an overview of [the full API](http://velocyto.org/velocyto.py/fullapi/index.html).
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Jupyter notebooks
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Swagatam123/MEENet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Jupyter notebooks are available in the [github repository].
