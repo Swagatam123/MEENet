@@ -16,4 +16,4 @@ See [the detailed documentation](http://velocyto.org/velocyto.py/) for [installa
 
 ## Jupyter notebooks
 
-The Jupyter notebooks are available in the [github repository].
+The Jupyter notebooks are available in the [github repository](https://github.com/Swagatam123/MEENet-jupyter_notebook).
